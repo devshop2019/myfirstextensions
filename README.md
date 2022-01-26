@@ -1,6 +1,17 @@
 
 > Open this page at [https://devshop2019.github.io/myfirstextensions/](https://devshop2019.github.io/myfirstextensions/)
 
+## Usage
+
+### ''plotAt''
+Use the ''plotAt'' block to render LEDs at a index location
+```blocks
+for(let i = 0; i < 25; ++i){
+    screenMagic.plotAt(i);
+    basic.pause(500);
+}
+```
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
