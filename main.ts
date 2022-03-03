@@ -1,3 +1,8 @@
+// https://makecode.com/defining-blocks
+// https://makecode.com/playground#classes
+// https://fontawesome.com/search?q=mo&s=solid%2Cbrands
+
+//% color="#ff0000" icon="\uf63b"
 namespace screenMagic{
     /**
      * Address LEDs linearly row first
