@@ -6,6 +6,9 @@
 // make tutorial save on github
 // https://www.youtube.com/watch?v=R-kY-dQXZvA&list=PLMMBk9hE-SeqUGt71Myb1iA45w9EvqQbA&index=127
 
+// Qui uoc viet extension
+// https://makecode.com/extensions/naming-conventions
+
 // enum MKL_DRIVER_I2C_MOTOR_INDEX{
 //     //% block="Driver 1"
 //     MKL_DRIVER_I2C_MOTOR_INDEX_1 = 64,
@@ -62,7 +65,7 @@ namespace screenMagic{
     }
 }
 
-//% color="#ff55ff" icon="\uf085"
+//% color="#ff5511" icon="\uf085"
 //% groups="['I2C Motor Driver', 'Led', 'Button]"
 namespace MKLModules {
     let MKL_DRIVER_I2C_MOTOR_MAX_BUFFER_SIZE = 6
