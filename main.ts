@@ -1,5 +1,11 @@
 // https://makecode.com/defining-blocks
 // https://makecode.com/playground#classes
+// https://semantic-ui.com/elements/icon.html
+// icon="\uf073" calendar
+// icon = "\uf26c" tivi
+// icon = "\uf2c8" nhietdo
+
+
 // https://fontawesome.com/search?q=mo&s=solid%2Cbrands
 // https://www.youtube.com/watch?v=Ku_nHstZS64&list=PLMMBk9hE-SeqUGt71Myb1iA45w9EvqQbA&index=129
 
